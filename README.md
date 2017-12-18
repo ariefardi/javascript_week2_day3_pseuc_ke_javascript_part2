@@ -1,0 +1,1 @@
+# javascript_week2_day3_pseuc_ke_javascript_part2
