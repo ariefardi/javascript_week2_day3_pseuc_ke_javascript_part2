@@ -20,15 +20,12 @@ for(index1=1;index1<11;index1++){
   var pagar = '';
 }
 
-
 //tugas 3
 var bintang = '';
-for(index1=1;index1<11;index1++){
-  for(index2=0;index2<11;index2++){
+for(index1=1;index1<10;index1++){
+  for(index2=0;index2<index1;index2++){
     bintang=bintang+'*'
   }
   console.log(bintang);
   var bintang = '';
 }
-
-
